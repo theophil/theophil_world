@@ -11,6 +11,8 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
+#how is articles not here?
+
 ActiveRecord::Schema.define(:version => 20120412125204) do
 
   create_table "categories", :force => true do |t|
